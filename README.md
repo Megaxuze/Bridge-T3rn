@@ -11,3 +11,8 @@ Requitment : ```pip install -r requirements.txt```
 Change Private key in PrivateKeys.py or ```nano PrivateKeys.py```
 
 Run :```Python3 run.py```
+
+
+Note :  Credit By @AidropASC
+LICENCE :
+You may copy this for yourself or your group, but please respect the effort put into creating this script. Include the source and give proper credit to the creator of the script. This license is free, and we do not ask you to pay for it.
