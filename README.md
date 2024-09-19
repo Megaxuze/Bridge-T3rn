@@ -14,7 +14,7 @@ Run :```Python3 run.py```
 
 
 | Link : https://t.me/airdropasc/62965
-
+| Link : official Github : https://github.com/zamzasalim/tbot/tree/main
 
 
 Bridge ARB-OP Error | Please wait for the next update.
