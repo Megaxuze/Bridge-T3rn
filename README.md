@@ -8,6 +8,6 @@ Install : ```apt install python3```
 
 Requitment : ```pip install -r requirements.txt```
 
-Change Private key in PrivateKeys.py
+Change Private key in PrivateKeys.py or ```nano PrivateKeys.py```
 
 Run :```Python3 run.py```
